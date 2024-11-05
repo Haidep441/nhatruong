@@ -1,6 +1,6 @@
 repeat wait()
 until game:IsLoaded()
-local TableChat = {"HaiDepZai","HaiDepZai On Top"}
+local TableChat = {"HaiDepZai","HaiDepZai vãi ò"}
 spawn(function()
     while wait() do 
         pcall(function()
@@ -210,7 +210,7 @@ function AllowRunServiceBind.OnInvoke(args)
 
         Text = "By: HaiDepZai",
 
-        Icon = "rbxthumb://type=Asset&id=86597697608178&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=99691260280269=150&h=150",
 
         Duration = math.huge,
 
@@ -257,7 +257,7 @@ CoreGui:SetCore("SendNotification", {
 
     Text = "By: HaiDepZai",
 
-    Icon = "rbxthumb://type=Asset&id=86597697608178&w=150&h=150",
+    Icon = "rbxthumb://type=Asset&id=99691260280269&w=150&h=150",
 
     Duration = math.huge,
 
